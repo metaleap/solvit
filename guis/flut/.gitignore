@@ -1,12 +1,3 @@
-go.sum
-.tmp
-*.js
-.env
-.env.prod
-*__debug_bin*
-
-# everything below: Flutter-related
-
 # Miscellaneous
 *.class
 *.log
