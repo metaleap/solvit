@@ -1,0 +1,6 @@
+go.sum
+.tmp
+*.js
+.env
+.env.prod
+*__debug_bin*
