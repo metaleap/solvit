@@ -13,6 +13,8 @@ dependencies:
     git:
       url: https://github.com/leanflutter/window_manager.git
       ref: main
+  fluent_ui:
+    git: https://github.com/bdlukaa/fluent_ui.git
 
 dev_dependencies:
   flutter_test:
