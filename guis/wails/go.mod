@@ -1,6 +1,6 @@
 module solvit/guis/wails
 
-go 1.21.3
+go 1.22.3
 
 require github.com/wailsapp/wails/v2 v2.8.2
 
