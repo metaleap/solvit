@@ -5,7 +5,7 @@ import * as yo from './yo-sdk.js'
 
 export function main() {
     const btn_on_click = async () => {
-        let name = prompt("Your name?")
+        let name = prompt("Name plz?")
         if (name && (name = name.trim())) try {
             const greeting = await yo.api__helloName({ Name: name })
             alert(greeting.Result)
